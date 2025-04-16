@@ -357,10 +357,12 @@ void MouseCallback(GLFWwindow* window, double xPos, double yPos)
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-//estamos rompiendo el código. 
+//estamos rompiendo el cï¿½digo. 
 =======
-´// estamos rompiendo el codigo 
+ï¿½// estamos rompiendo el codigo 
 >>>>>>> Stashed changes
 =======
-´// estamos rompiendo el codigo 
+ï¿½// estamos rompiendo el codigo 
 >>>>>>> Stashed changes
+
+esto es una prueba masss
