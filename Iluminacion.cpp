@@ -355,4 +355,8 @@ void MouseCallback(GLFWwindow* window, double xPos, double yPos)
     camera.ProcessMouseMovement(xOffset, yOffset);
 }
 
+<<<<<<< Updated upstream
 //estamos rompiendo el código. 
+=======
+´// estamos rompiendo el codigo 
+>>>>>>> Stashed changes
